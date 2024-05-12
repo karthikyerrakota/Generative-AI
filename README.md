@@ -1,1 +1,1 @@
-# Gen_AI_Project
+# Generative AI related content
