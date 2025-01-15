@@ -7,7 +7,8 @@ This repository contains a curated collection of resources and projects related 
 **AI Agents/**
 Contains materials and code pertaining to AI agent development.
 
-In this repository, I utilized two frameworks: LangGraph and CrewAI.
+In this repository, I utilized two frameworks: LangGraph and CrewAI to create simple agents.
+
 
 **LLM Finetuning/**
 Includes resources for fine-tuning Large Language Models (LLMs).
