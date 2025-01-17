@@ -15,6 +15,7 @@ Includes resources for fine-tuning Large Language Models (LLMs).
 
 **RAG/**
 Comprises content related to Retrieval-Augmented Generation techniques.
+Updated with Agentic RAG
 
 Each folder is designed to provide insights and practical implementations in the respective areas of Generative AI.
 
