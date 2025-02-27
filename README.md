@@ -7,7 +7,7 @@ This repository contains a curated collection of resources and projects related 
 **AI Agents/**
 Contains materials and code pertaining to AI agent development.
 
-This also contains Notebook for creating an agent from scratch.
+This also contains Notebook for creating an agent from scratch.i.e., logic followed to create an agent.
 
 In this repository, I utilized two frameworks: LangGraph and CrewAI to create simple agents.
 
