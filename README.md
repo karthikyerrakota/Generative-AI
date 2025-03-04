@@ -2,7 +2,7 @@
 
 This repository contains a curated collection of resources and projects related to Generative Artificial Intelligence (AI).
 
-**Folder Structure**
+**Folder Structure**:
 
 **AI Agents/**
 Contains materials and code pertaining to AI agent development.
