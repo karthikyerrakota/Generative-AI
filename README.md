@@ -5,7 +5,7 @@ This repository contains a curated collection of resources and projects related 
 **Folder Structure**:
 
 **AI Agents/**
-Contains materials and code pertaining to AI agent development.
+Contains materials and code pertaining to AI agent developmen.
 
 This also contains Notebook for creating an agent from scratch. i.e., logic to create an agent.
 
